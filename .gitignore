@@ -1,0 +1,34 @@
+# Compiled binaries
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+
+# Build results
+*.VC.db
+*.VC.opendb
+
+*.opendb
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Rider/Visual Studio junk
+.vs/
+.idea/
+
+# Ignore config that shouldn’t sync
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Backups
+*.log
+*.tlog
+*.tmp
